@@ -27,7 +27,11 @@ _Rubocop_
 
 Check the complexity first, good starting point
 
-`rubocop --only AbcSize,ClassLength rubocop --only AbcSize,ClassLength --f html > complexity.html`
+```bash
+rubocop --only AbcSize,ClassLength 
+rubocop --only AbcSize,ClassLength --f html > complexity.html`
+```
+
 (to get an HTML report)
 
 _Brakeman (security)_
