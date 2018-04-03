@@ -61,7 +61,7 @@ Why:
 
 ### Performance analysis
 
-rack-profiler & usage
+[rack-profiler](https://github.com/MiniProfiler/rack-mini-profiler) & usage
 
 ### Server good practices
 
